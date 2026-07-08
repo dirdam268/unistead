@@ -1,0 +1,6 @@
+.claude/
+# Ficheros fuente SIN cifrar y herramientas de construcción — NUNCA subir
+index-src.html
+build-secure.ps1
+extract-nielsen.ps1
+nielsen-data.json
