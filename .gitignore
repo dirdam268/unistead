@@ -7,3 +7,5 @@ nielsen-data.json
 
 renta-data.json
 extract-renta.ps1
+demo-data.json
+extract-demo.ps1
