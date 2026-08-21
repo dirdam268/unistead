@@ -13,3 +13,5 @@ paro-data.json
 extract-paro.ps1
 paisvasco-data.json
 extract-paisvasco.ps1
+regiones-data.json
+extract-regiones.ps1
