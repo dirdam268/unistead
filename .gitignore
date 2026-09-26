@@ -21,3 +21,6 @@ carrexpress-ventas.json
 
 nielsen-real.json
 extract-nielsen-real.ps1
+
+aperturas-pv.json
+extract-aperturas-pv.ps1
