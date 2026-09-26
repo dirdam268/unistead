@@ -24,3 +24,7 @@ extract-nielsen-real.ps1
 
 aperturas-pv.json
 extract-aperturas-pv.ps1
+
+aperturas-es.json
+cierres-es.json
+extract-aperturas-es.ps1
