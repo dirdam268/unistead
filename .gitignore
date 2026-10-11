@@ -28,3 +28,6 @@ extract-aperturas-pv.ps1
 aperturas-es.json
 cierres-es.json
 extract-aperturas-es.ps1
+
+oportunidades-data.json
+extract-oportunidades.ps1
